@@ -13,7 +13,7 @@
   "author": "Moudy <moudy.elkammash@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "broccoli-base64-css": "https://github.com/andygoalkeeper/broccoli-base64-css"
+    "broccoli-base64-css": "https://github.com/andygoalkeeper/broccoli-base64-css#bb88bda29607b21e6044daa05e6999849a4d7dae"
   },
   "keywords": [
     "ember-addon",
